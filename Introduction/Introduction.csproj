@@ -67,13 +67,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSSDropdownHorizontalNavigationBar.html" />
+    <Content Include="CSSDropdownHorizontalNavigationBarCSS.css" />
+    <Content Include="CSSGrayHorizontalNavigationBar.html" />
+    <Content Include="CSSGrayHorizontalNavigationBarCSS.css" />
+    <Content Include="CSSHorizontalFixedNavigationBar.html" />
+    <Content Include="CSSHorizontalFixedNavigationBarCSS.css" />
     <Content Include="CSSHorizontalNavigationBar.html" />
+    <Content Include="CSSHorizontalNavigationBarExamples.html" />
     <Content Include="CSSImageOpacityTextInTransparentBox.html" />
     <Content Include="CSSImageOpacityTransparentHoverEffect.html" />
     <Content Include="CSSPseudoClassesLang.html" />
     <Content Include="CSSPseudoClassessAnchor.html" />
     <Content Include="CSSPseudoClassesSimpleTooltipHover.html" />
+    <Content Include="CSSResponsiveHorizontalNavigationBar.html" />
+    <Content Include="CSSResponsiveHorizontalNavigationBarCSS.css" />
+    <Content Include="CSSResponsiveSidenavHorizontalBar.html" />
+    <Content Include="CSSResponsiveSidenavHorizontalBarCSS.css" />
+    <Content Include="CSSStickyHorizontalNavigationBar.html" />
+    <Content Include="CSSStickyHorizontalNavigationBarCSS.css" />
     <Content Include="CSSVerticalNavigationBar.html" />
+    <Content Include="HorizontalNavigationBarExamplesCSS.css" />
     <Content Include="Images\img_5terre.jpg" />
     <Content Include="Images\img_forest.jpg" />
     <Content Include="Images\img_mountains.jpg" />
