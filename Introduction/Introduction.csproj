@@ -108,10 +108,14 @@
     <Content Include="CSSResponsiveImageGalleryCSS.css" />
     <Content Include="CSSResponsiveSidenavHorizontalBar.html" />
     <Content Include="CSSResponsiveSidenavHorizontalBarCSS.css" />
+    <Content Include="CSSResponsiveWebsiteLayout.html" />
+    <Content Include="CSSResponsiveWebsiteLayoutCSS.css" />
     <Content Include="CSSStickyHorizontalNavigationBar.html" />
     <Content Include="CSSStickyHorizontalNavigationBarCSS.css" />
     <Content Include="CSSVerticalNavigationBar.html" />
     <Content Include="CSSWebsiteLayoutHeader.html" />
+    <Content Include="CSSWebsiteLayoutNavigationBar.html" />
+    <Content Include="CSSWebsiteLayoutNavigationBarCSS.css" />
     <Content Include="HorizontalNavigationBarExamplesCSS.css" />
     <Content Include="Images\img_5terre.jpg" />
     <Content Include="Images\img_forest.jpg" />
