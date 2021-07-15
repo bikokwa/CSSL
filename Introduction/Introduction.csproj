@@ -79,6 +79,10 @@
     <Content Include="CSSDropdownsDropdownNavbarCSS.css" />
     <Content Include="CSSDropdownsRightAlignedDropdownContent.html" />
     <Content Include="CSSDropdownsRightAlignedDropdownContentCSS.css" />
+    <Content Include="CSSFormsAnimatedSearchInput.html" />
+    <Content Include="CSSFormsInputWithIconOrImage.html" />
+    <Content Include="CSSFormsResponsiveForm.html" />
+    <Content Include="CSSFormsResponsiveFormCSS.css" />
     <Content Include="CSSFormsSimpleForm.html" />
     <Content Include="CSSFormsSimpleFormCSS.css" />
     <Content Include="CSSGrayHorizontalNavigationBar.html" />
@@ -107,6 +111,7 @@
     <Content Include="CSSStickyHorizontalNavigationBar.html" />
     <Content Include="CSSStickyHorizontalNavigationBarCSS.css" />
     <Content Include="CSSVerticalNavigationBar.html" />
+    <Content Include="CSSWebsiteLayoutHeader.html" />
     <Content Include="HorizontalNavigationBarExamplesCSS.css" />
     <Content Include="Images\img_5terre.jpg" />
     <Content Include="Images\img_forest.jpg" />
@@ -115,6 +120,7 @@
     <Content Include="Images\img_navsprites.gif" />
     <Content Include="Images\img_trans.gif" />
     <Content Include="Images\klematis.jpg" />
+    <Content Include="Images\searchicon.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
