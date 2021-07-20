@@ -67,6 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSSBorderImagesBorderImageProperty.html" />
+    <Content Include="CSSBorderImagesDifferentSliceValues.html" />
+    <Content Include="CSSImportantPropertyWhatIsImportant.html" />
     <Content Include="CSSDropdownHorizontalNavigationBar.html" />
     <Content Include="CSSDropdownHorizontalNavigationBarCSS.css" />
     <Content Include="CSSDropdownsBasicDropdown.html" />
@@ -110,6 +113,10 @@
     <Content Include="CSSResponsiveSidenavHorizontalBarCSS.css" />
     <Content Include="CSSResponsiveWebsiteLayout.html" />
     <Content Include="CSSResponsiveWebsiteLayoutCSS.css" />
+    <Content Include="CSSRoundedCornersBorderRadius.html" />
+    <Content Include="CSSRoundedCornersBorderRadiusCSS.css" />
+    <Content Include="CSSRoundedCornersSpecifyEachCorner.html" />
+    <Content Include="CSSRoundedCornersSpecifyEachCornerCSS.css" />
     <Content Include="CSSStickyHorizontalNavigationBar.html" />
     <Content Include="CSSStickyHorizontalNavigationBarCSS.css" />
     <Content Include="CSSVerticalNavigationBar.html" />
@@ -117,6 +124,7 @@
     <Content Include="CSSWebsiteLayoutNavigationBar.html" />
     <Content Include="CSSWebsiteLayoutNavigationBarCSS.css" />
     <Content Include="HorizontalNavigationBarExamplesCSS.css" />
+    <Content Include="Images\border.png" />
     <Content Include="Images\img_5terre.jpg" />
     <Content Include="Images\img_forest.jpg" />
     <Content Include="Images\img_lights.jpg" />
@@ -124,6 +132,7 @@
     <Content Include="Images\img_navsprites.gif" />
     <Content Include="Images\img_trans.gif" />
     <Content Include="Images\klematis.jpg" />
+    <Content Include="Images\paper.gif" />
     <Content Include="Images\searchicon.png" />
     <Content Include="Web.config" />
   </ItemGroup>
