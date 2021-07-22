@@ -76,6 +76,12 @@
     <Content Include="CSSColorsHSLColors.html" />
     <Content Include="CSSColorsOpacity.html" />
     <Content Include="CSSColorsRGBAColors.html" />
+    <Content Include="CSSGradientsDirectionDiagonal.html" />
+    <Content Include="CSSGradientsDirectionLeftToRight.html" />
+    <Content Include="CSSGradientsRepeatingLinearGradient.html" />
+    <Content Include="CSSGradientsTopToBottom.html" />
+    <Content Include="CSSGradientsUsingAngles.html" />
+    <Content Include="CSSGradientsUsingMultipleColors.html" />
     <Content Include="CSSImportantPropertyWhatIsImportant.html" />
     <Content Include="CSSDropdownHorizontalNavigationBar.html" />
     <Content Include="CSSDropdownHorizontalNavigationBarCSS.css" />
