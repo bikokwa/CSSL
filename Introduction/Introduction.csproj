@@ -143,6 +143,8 @@
     <Content Include="CSSRoundedCornersBorderRadiusCSS.css" />
     <Content Include="CSSRoundedCornersSpecifyEachCorner.html" />
     <Content Include="CSSRoundedCornersSpecifyEachCornerCSS.css" />
+    <Content Include="CSSShadowEffectsMultipleShadows.html" />
+    <Content Include="CSSShadowEffectsTextShadow.html" />
     <Content Include="CSSStickyHorizontalNavigationBar.html" />
     <Content Include="CSSStickyHorizontalNavigationBarCSS.css" />
     <Content Include="CSSVerticalNavigationBar.html" />
