@@ -69,6 +69,11 @@
   <ItemGroup>
     <Content Include="CSSBorderImagesBorderImageProperty.html" />
     <Content Include="CSSBorderImagesDifferentSliceValues.html" />
+    <Content Include="CSSColorKeywordsTransparent.html" />
+    <Content Include="CSSColorsHSLAColors.html" />
+    <Content Include="CSSColorsHSLColors.html" />
+    <Content Include="CSSColorsOpacity.html" />
+    <Content Include="CSSColorsRGBAColors.html" />
     <Content Include="CSSImportantPropertyWhatIsImportant.html" />
     <Content Include="CSSDropdownHorizontalNavigationBar.html" />
     <Content Include="CSSDropdownHorizontalNavigationBarCSS.css" />
@@ -100,6 +105,14 @@
     <Content Include="CSSImageOpacityTransparentHoverEffect.html" />
     <Content Include="CSSImageSpritesSimpleEampleCSS.css" />
     <Content Include="CSSImageSpritesSimpleExample.html" />
+    <Content Include="CSSMultipleBackgrounds.html" />
+    <Content Include="CSSMultipleBackgroundsBackgroundSize.html" />
+    <Content Include="CSSMultipleBackgroundsClipProperty.html" />
+    <Content Include="CSSMultipleBackgroundsContainCoverSizes.html" />
+    <Content Include="CSSMultipleBackgroundsFullSizeImage.html" />
+    <Content Include="CSSMultipleBackgroundsHeroImage.html" />
+    <Content Include="CSSMultipleBackgroundsOriginProperty.html" />
+    <Content Include="CSSMultipleBackgroundsSizesOfMultipleImages.html" />
     <Content Include="CSSNavigationListImageSprites.html" />
     <Content Include="CSSNavigationListImageSpritesCSS.css" />
     <Content Include="CSSPseudoClassesLang.html" />
@@ -126,11 +139,14 @@
     <Content Include="HorizontalNavigationBarExamplesCSS.css" />
     <Content Include="Images\border.png" />
     <Content Include="Images\img_5terre.jpg" />
+    <Content Include="Images\img_flwr.gif" />
     <Content Include="Images\img_forest.jpg" />
     <Content Include="Images\img_lights.jpg" />
+    <Content Include="Images\img_man.jpg" />
     <Content Include="Images\img_mountains.jpg" />
     <Content Include="Images\img_navsprites.gif" />
     <Content Include="Images\img_trans.gif" />
+    <Content Include="Images\img_tree.gif" />
     <Content Include="Images\klematis.jpg" />
     <Content Include="Images\paper.gif" />
     <Content Include="Images\searchicon.png" />
