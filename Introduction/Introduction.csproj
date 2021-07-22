@@ -69,6 +69,8 @@
   <ItemGroup>
     <Content Include="CSSBorderImagesBorderImageProperty.html" />
     <Content Include="CSSBorderImagesDifferentSliceValues.html" />
+    <Content Include="CSSColorKeywordsCurrentcolor.html" />
+    <Content Include="CSSColorKeywordsInheritKeyword.html" />
     <Content Include="CSSColorKeywordsTransparent.html" />
     <Content Include="CSSColorsHSLAColors.html" />
     <Content Include="CSSColorsHSLColors.html" />
