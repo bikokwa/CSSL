@@ -126,6 +126,11 @@
     <Content Include="CSSPseudoClassesLang.html" />
     <Content Include="CSSPseudoClassessAnchor.html" />
     <Content Include="CSSPseudoClassesSimpleTooltipHover.html" />
+    <Content Include="CSSRadialGradientsDefault.html" />
+    <Content Include="CSSRadialGradientsDifferentlySpacedColors.html" />
+    <Content Include="CSSRadialGradientsDifferentSizeKeywords.html" />
+    <Content Include="CSSRadialGradientsRepeatingRadialGradient.html" />
+    <Content Include="CSSRadialGradientsSetShape.html" />
     <Content Include="CSSResponsiveHorizontalNavigationBar.html" />
     <Content Include="CSSResponsiveHorizontalNavigationBarCSS.css" />
     <Content Include="CSSResponsiveImageGallery.html" />
