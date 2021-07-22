@@ -69,6 +69,9 @@
   <ItemGroup>
     <Content Include="CSSBorderImagesBorderImageProperty.html" />
     <Content Include="CSSBorderImagesDifferentSliceValues.html" />
+    <Content Include="CSSBoxShadowImageCard.html" />
+    <Content Include="CSSBoxShadowProperty.html" />
+    <Content Include="CSSBoxShadowTextCard.html" />
     <Content Include="CSSColorKeywordsCurrentcolor.html" />
     <Content Include="CSSColorKeywordsInheritKeyword.html" />
     <Content Include="CSSColorKeywordsTransparent.html" />
@@ -164,6 +167,7 @@
     <Content Include="Images\img_tree.gif" />
     <Content Include="Images\klematis.jpg" />
     <Content Include="Images\paper.gif" />
+    <Content Include="Images\rock600x400.jpg" />
     <Content Include="Images\searchicon.png" />
     <Content Include="Web.config" />
   </ItemGroup>
