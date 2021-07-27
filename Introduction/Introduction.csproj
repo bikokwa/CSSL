@@ -67,6 +67,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS2DTransformsMatrixMethod.html" />
+    <Content Include="CSS2DTransformsRotateMethod.html" />
+    <Content Include="CSS2DTransformsScaleMethod.html" />
+    <Content Include="CSS2DTransformsSkewMethod.html" />
+    <Content Include="CSS2DTransformsTranslateMethod.html" />
     <Content Include="CSSBorderImagesBorderImageProperty.html" />
     <Content Include="CSSBorderImagesDifferentSliceValues.html" />
     <Content Include="CSSBoxShadowImageCard.html" />
