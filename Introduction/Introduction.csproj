@@ -150,6 +150,10 @@
     <Content Include="CSSShadowEffectsTextShadow.html" />
     <Content Include="CSSStickyHorizontalNavigationBar.html" />
     <Content Include="CSSStickyHorizontalNavigationBarCSS.css" />
+    <Content Include="CSSTextEffectsCSSTextOverflow.html" />
+    <Content Include="CSSTextEffectsCSSWordBreaking.html" />
+    <Content Include="CSSTextEffectsCSSWordWrapping.html" />
+    <Content Include="CSSTextEffectsCSSWritingMode.html" />
     <Content Include="CSSVerticalNavigationBar.html" />
     <Content Include="CSSWebsiteLayoutHeader.html" />
     <Content Include="CSSWebsiteLayoutNavigationBar.html" />
