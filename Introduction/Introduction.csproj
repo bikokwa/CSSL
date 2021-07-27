@@ -131,6 +131,7 @@
     <Content Include="CSSMultipleBackgroundsSizesOfMultipleImages.html" />
     <Content Include="CSSNavigationListImageSprites.html" />
     <Content Include="CSSNavigationListImageSpritesCSS.css" />
+    <Content Include="CSSPerspectiveProperty.html" />
     <Content Include="CSSPseudoClassesLang.html" />
     <Content Include="CSSPseudoClassessAnchor.html" />
     <Content Include="CSSPseudoClassesSimpleTooltipHover.html" />
@@ -159,6 +160,8 @@
     <Content Include="CSSTextEffectsCSSWordBreaking.html" />
     <Content Include="CSSTextEffectsCSSWordWrapping.html" />
     <Content Include="CSSTextEffectsCSSWritingMode.html" />
+    <Content Include="CSSTransformOriginProperty.html" />
+    <Content Include="CSSTransformStyleProperty.html" />
     <Content Include="CSSVerticalNavigationBar.html" />
     <Content Include="CSSWebsiteLayoutHeader.html" />
     <Content Include="CSSWebsiteLayoutNavigationBar.html" />
