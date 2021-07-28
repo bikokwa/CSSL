@@ -165,7 +165,10 @@
     <Content Include="CSSTextEffectsCSSWritingMode.html" />
     <Content Include="CSSTransformOriginProperty.html" />
     <Content Include="CSSTransformStyleProperty.html" />
+    <Content Include="CSSTransitionsChangeSeveralPropertyValues.html" />
+    <Content Include="CSSTransitionsDelayTransitionEffect.html" />
     <Content Include="CSSTransitionsHowToUseCSSTransitions.html" />
+    <Content Include="CSSTransitionsSpeedCurveOfTheTransition.html" />
     <Content Include="CSSVerticalNavigationBar.html" />
     <Content Include="CSSWebsiteLayoutHeader.html" />
     <Content Include="CSSWebsiteLayoutNavigationBar.html" />
