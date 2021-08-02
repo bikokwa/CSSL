@@ -80,6 +80,7 @@
     <Content Include="CSSAnimationskeyframesRulePercent.html" />
     <Content Include="CSSAnimationskeyframesRulePercentagePosition.html" />
     <Content Include="CSSAnimationsReverseDirectionAlternateCycles.html" />
+    <Content Include="CSSAnimationsSpeedCurve.html" />
     <Content Include="CSSBorderImagesBorderImageProperty.html" />
     <Content Include="CSSBorderImagesDifferentSliceValues.html" />
     <Content Include="CSSBoxShadowImageCard.html" />
