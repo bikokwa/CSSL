@@ -4,10 +4,23 @@
     <meta charset="utf-8" />
     <title>CSS Animations - The @keyframes Rule</title>
     <style>
+        div {
+            width:100px;
+            height:100px;
+            background-color:red;
+            animation-name:example;
+            animation-duration:4s;
+        }
 
+        @keyframes example {
+            from {background-color:red;}
+            to {background-color:yellow;}
+        }
     </style>
 </head>
 <body>
+
+    <h2>CSS Animations</h2>
 
     <p>An animation lets an element gradually change from one style to another.</p>
 
