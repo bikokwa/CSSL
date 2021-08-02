@@ -76,6 +76,7 @@
     <Content Include="CSS3DTransformsRotateYMethod.html" />
     <Content Include="CSS3DTransformsRotateZMethod.html" />
     <Content Include="CSSAnimationsDelayAnAnimation.html" />
+    <Content Include="CSSAnimationsFillMode.html" />
     <Content Include="CSSAnimationskeyframesRule.html" />
     <Content Include="CSSAnimationskeyframesRulePercent.html" />
     <Content Include="CSSAnimationskeyframesRulePercentagePosition.html" />
