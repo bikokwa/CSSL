@@ -77,6 +77,7 @@
     <Content Include="CSS3DTransformsRotateZMethod.html" />
     <Content Include="CSSAnimationskeyframesRule.html" />
     <Content Include="CSSAnimationskeyframesRulePercent.html" />
+    <Content Include="CSSAnimationskeyframesRulePercentagePosition.html" />
     <Content Include="CSSBorderImagesBorderImageProperty.html" />
     <Content Include="CSSBorderImagesDifferentSliceValues.html" />
     <Content Include="CSSBoxShadowImageCard.html" />
