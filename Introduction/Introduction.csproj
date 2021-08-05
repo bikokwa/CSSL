@@ -174,7 +174,14 @@
     <Content Include="CSSTextEffectsCSSWritingMode.html" />
     <Content Include="CSSTransformOriginProperty.html" />
     <Content Include="CSSTransformStyleProperty.html" />
+<<<<<<< HEAD
     <Content Include="CSSTransitionsTransitionTransformation.html" />
+=======
+    <Content Include="CSSTransitionsChangeSeveralPropertyValues.html" />
+    <Content Include="CSSTransitionsDelayTransitionEffect.html" />
+    <Content Include="CSSTransitionsHowToUseCSSTransitions.html" />
+    <Content Include="CSSTransitionsSpeedCurveOfTheTransition.html" />
+>>>>>>> corrected-branch-name
     <Content Include="CSSVerticalNavigationBar.html" />
     <Content Include="CSSWebsiteLayoutHeader.html" />
     <Content Include="CSSWebsiteLayoutNavigationBar.html" />
