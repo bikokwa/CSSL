@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Tooltip Arrows - Right Arrow</title>
+    <style>
+        .tooltip {
+            border-bottom:1px dotted black;
+            position:relative;
+            display:inline-block;
+        }
+
+        .tooltip .tooltiptext {
+            position:absolute;
+            color:#fff;
+            background-color:black;
+            z-index:1;
+            border-radius:6px;
+            width:120px;
+            padding:5px 0;
+            right:110px;
+            margin-top:-5px;
+            visibility:hidden;
+        }
+
+        .tooltip .tooltiptext::after {
+            position:absolute;
+            content:"";
+            border-style:solid;
+            left:100%;
+            top:50%;
+            margin-top:-5px;
+            border-width:5px;
+            border-color:transparent transparent transparent black;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility:visible;
+        }
+    </style>
+</head>
+<body style="text-align:center;">
+
+    <h2>Left Tooltip w/ Right Arrow</h2>
+
+    <div class="tooltip">
+        Hover over me
+        <span class="tooltiptext">Tooltip text</span>
+    </div>
+
+</body>
+</html>

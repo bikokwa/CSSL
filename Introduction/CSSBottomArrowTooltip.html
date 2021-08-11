@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Tooltip Arrows - Bottom Arrow</title>
+    <style>
+        .tooltip {
+            border-bottom:1px dotted black;
+            position:relative;
+            display:inline-block;
+        }
+
+        span {
+            color:hotpink;
+        }
+
+        .tooltip .tooltiptext {
+            position:absolute;
+            width:120px;
+            text-align:center;
+            background-color:black;
+            color:#fff;
+            border-radius:6px;
+            padding:5px 0;
+            z-index:1;
+            bottom:150%;
+            margin-left:-60px;
+            left:50%;
+            visibility:hidden;
+        }
+
+        .tooltip .tooltiptext::after {
+            content:"";
+            position:absolute;
+            top:100%;
+            left:50%;
+            margin-left:-5px;
+            border-width:5px;
+            border-style:solid;
+            border-color:black black transparent transparent;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility:visible;
+        }
+    </style>
+</head>
+<body style="text-align:center;">
+
+    <h2>Top Tooltip w/ Bottom Arrow</h2>
+
+    <div class="tooltip">
+        Hover over me
+        <span class="tooltiptext">Tooltip text</span>
+    </div>
+
+    <p>
+        Position the arrow inside the tooltip: <span>top: 100%</span> will place the arrow at the bottom of the tooltip.
+                                               <span>left: 50%</span> will center the arrow.
+    </p>
+
+    <p>
+        <b>Note:</b> The <span>border-width</span> property specifies the size of the arrow. If you change this, also change the 
+                         <span>margin-left</span> value to the same. This will keep the arrow centered.
+    </p>
+
+    <p>
+        The <span>border-color</span> is used to transform the content into an arrow. We set the top border to black, and the rest to
+        transparent. If all sides were black, you would end up with a black square box.
+    </p>
+
+</body>
+</html>

@@ -75,8 +75,10 @@
     <Content Include="CSS3DTransformsRotateXMethod.html" />
     <Content Include="CSS3DTransformsRotateYMethod.html" />
     <Content Include="CSS3DTransformsRotateZMethod.html" />
+    <Content Include="CSSBasicTooltip.html" />
     <Content Include="CSSBorderImagesBorderImageProperty.html" />
     <Content Include="CSSBorderImagesDifferentSliceValues.html" />
+    <Content Include="CSSBottomArrowTooltip.html" />
     <Content Include="CSSBoxShadowImageCard.html" />
     <Content Include="CSSBoxShadowProperty.html" />
     <Content Include="CSSBoxShadowTextCard.html" />
@@ -87,6 +89,7 @@
     <Content Include="CSSColorsHSLColors.html" />
     <Content Include="CSSColorsOpacity.html" />
     <Content Include="CSSColorsRGBAColors.html" />
+    <Content Include="CSSFadeInTooltips.html" />
     <Content Include="CSSGradientsDirectionDiagonal.html" />
     <Content Include="CSSGradientsDirectionLeftToRight.html" />
     <Content Include="CSSGradientsRepeatingLinearGradient.html" />
@@ -124,6 +127,7 @@
     <Content Include="CSSImageOpacityTransparentHoverEffect.html" />
     <Content Include="CSSImageSpritesSimpleEampleCSS.css" />
     <Content Include="CSSImageSpritesSimpleExample.html" />
+    <Content Include="CSSLeftArrowTooltip.html" />
     <Content Include="CSSMultipleBackgrounds.html" />
     <Content Include="CSSMultipleBackgroundsBackgroundSize.html" />
     <Content Include="CSSMultipleBackgroundsClipProperty.html" />
@@ -135,6 +139,7 @@
     <Content Include="CSSNavigationListImageSprites.html" />
     <Content Include="CSSNavigationListImageSpritesCSS.css" />
     <Content Include="CSSPerspectiveProperty.html" />
+    <Content Include="CSSPositioningTooltips.html" />
     <Content Include="CSSPseudoClassesLang.html" />
     <Content Include="CSSPseudoClassessAnchor.html" />
     <Content Include="CSSPseudoClassesSimpleTooltipHover.html" />
@@ -151,6 +156,7 @@
     <Content Include="CSSResponsiveSidenavHorizontalBarCSS.css" />
     <Content Include="CSSResponsiveWebsiteLayout.html" />
     <Content Include="CSSResponsiveWebsiteLayoutCSS.css" />
+    <Content Include="CSSRightArrowTooltip.html" />
     <Content Include="CSSRoundedCornersBorderRadius.html" />
     <Content Include="CSSRoundedCornersBorderRadiusCSS.css" />
     <Content Include="CSSRoundedCornersSpecifyEachCorner.html" />
@@ -163,6 +169,8 @@
     <Content Include="CSSTextEffectsCSSWordBreaking.html" />
     <Content Include="CSSTextEffectsCSSWordWrapping.html" />
     <Content Include="CSSTextEffectsCSSWritingMode.html" />
+    <Content Include="CSSTopArrowTooltip.html" />
+    <Content Include="CSSTopTooltip.html" />
     <Content Include="CSSTransformOriginProperty.html" />
     <Content Include="CSSTransformStyleProperty.html" />
     <Content Include="CSSVerticalNavigationBar.html" />

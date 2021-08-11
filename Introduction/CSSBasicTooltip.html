@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CSS Tooltip - Basic Tooltip</title>
+    <style>
+        /* Tooltip container */
+        .tooltip {
+            position:relative;
+            border-bottom:1px dotted black;
+            display:inline-block;
+        }
+
+        /* Tooltip text */
+        .tooltip .tooltiptext {
+            position:absolute;
+            width:120px;
+            text-align:center;
+            padding:5px 0;
+            border-radius:6px;
+            color:#fff;
+            background-color:black;
+            visibility:hidden;
+            z-index:1;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility:visible;
+        }
+    </style>
+</head>
+<body style="text-align:center">
+
+    <p>Move the mouse over the text below:</p>
+
+    <div class="tooltip">
+        Hover over me
+        <span class="tooltiptext">Tooltip text</span>
+    </div>
+
+    <p>Note that the position of the tooltip text isn't very good. Go back to the tutorial and continue reading on how to position the tooltip in a desirable way.</p>
+
+</body>
+</html>
