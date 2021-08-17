@@ -96,6 +96,9 @@
     <Content Include="CSSGradientsTopToBottom.html" />
     <Content Include="CSSGradientsUsingAngles.html" />
     <Content Include="CSSGradientsUsingMultipleColors.html" />
+    <Content Include="CSSImageReflection.html" />
+    <Content Include="CSSImageReflectionOffset.html" />
+    <Content Include="CSSImageReflectionWithGradient.html" />
     <Content Include="CSSImportantPropertyWhatIsImportant.html" />
     <Content Include="CSSDropdownHorizontalNavigationBar.html" />
     <Content Include="CSSDropdownHorizontalNavigationBarCSS.css" />
@@ -208,6 +211,7 @@
     <Content Include="Images\img_navsprites.gif" />
     <Content Include="Images\img_trans.gif" />
     <Content Include="Images\img_tree.gif" />
+    <Content Include="Images\img_tree.png" />
     <Content Include="Images\klematis.jpg" />
     <Content Include="Images\lights600x400.jpg" />
     <Content Include="Images\paper.gif" />
