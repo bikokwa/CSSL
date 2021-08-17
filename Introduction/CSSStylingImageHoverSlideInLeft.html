@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Image Hover Overlay - Slide in left</title>
+    <style>
+        .container {
+            width:50%;
+            position:relative;
+        }
+
+        .image {
+            width:100%;
+            height:auto;
+            display:block;
+        }
+
+        .overlay {
+            position:absolute;
+            height:100%;
+            width:0;
+            bottom:0;
+            left:0;
+            right:0;
+            overflow:hidden;
+            background-color:#008CBA;
+            transition:0.5s ease;
+        }
+
+        .container:hover .overlay {
+            width:100%;
+        }
+
+        .text {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            white-space: nowrap;
+            transform: translate(-50%,-50%);
+            -ms-transform: translate(-50%,-50%);
+            overflow:hidden;
+            color:white;
+            font-size:20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Slide in Overlay from the Left</h2>
+
+    <div class="container">
+        <img src="Images/img_avatar.png" alt="Avatar" class="image">
+        <div class="overlay">
+            <div class="text">Hello World</div>
+        </div>
+    </div>
+
+</body>
+</html>
