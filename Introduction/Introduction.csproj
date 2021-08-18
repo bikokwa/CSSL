@@ -141,6 +141,8 @@
     <Content Include="CSSMultipleBackgroundsSizesOfMultipleImages.html" />
     <Content Include="CSSNavigationListImageSprites.html" />
     <Content Include="CSSNavigationListImageSpritesCSS.css" />
+    <Content Include="CSSObjectPositionProperty.html" />
+    <Content Include="CSSObjectPositionTheImage.html" />
     <Content Include="CSSPerspectiveProperty.html" />
     <Content Include="CSSPositioningTooltips.html" />
     <Content Include="CSSPseudoClassesLang.html" />
