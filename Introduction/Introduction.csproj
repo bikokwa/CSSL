@@ -105,7 +105,9 @@
     <Content Include="CSSColorsHSLColors.html" />
     <Content Include="CSSColorsOpacity.html" />
     <Content Include="CSSColorsRGBAColors.html" />
+    <Content Include="CSSColumnCountProperty.html" />
     <Content Include="CSSDisabledButtons.html" />
+    <Content Include="CSSElementColumnsSpan.html" />
     <Content Include="CSSFadeInTooltips.html" />
     <Content Include="CSSGradientsDirectionDiagonal.html" />
     <Content Include="CSSGradientsDirectionLeftToRight.html" />
@@ -159,6 +161,7 @@
     <Content Include="CSSMultipleBackgroundsHeroImage.html" />
     <Content Include="CSSMultipleBackgroundsOriginProperty.html" />
     <Content Include="CSSMultipleBackgroundsSizesOfMultipleImages.html" />
+    <Content Include="CSSMultipleColumnsProperties.html" />
     <Content Include="CSSNavigationListImageSprites.html" />
     <Content Include="CSSNavigationListImageSpritesCSS.css" />
     <Content Include="CSSObjectPositionProperty.html" />
