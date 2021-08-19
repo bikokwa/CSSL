@@ -75,6 +75,7 @@
     <Content Include="CSS3DTransformsRotateXMethod.html" />
     <Content Include="CSS3DTransformsRotateYMethod.html" />
     <Content Include="CSS3DTransformsRotateZMethod.html" />
+    <Content Include="CSSActiveAndHoverablePagination.html" />
     <Content Include="CSSAnimatedButtonsFadeIn.html" />
     <Content Include="CSSAnimatedButtonsHover.html" />
     <Content Include="CSSAnimatedButtonsPressedEffectOnClick.html" />
@@ -82,17 +83,20 @@
     <Content Include="CSSBasicButtonsStyling.html" />
     <Content Include="CSSBasicTooltip.html" />
     <Content Include="CSSBorderedButtonGroup.html" />
+    <Content Include="CSSBorderedPagination.html" />
     <Content Include="CSSBorderImagesBorderImageProperty.html" />
     <Content Include="CSSBorderImagesDifferentSliceValues.html" />
     <Content Include="CSSBottomArrowTooltip.html" />
     <Content Include="CSSBoxShadowImageCard.html" />
     <Content Include="CSSBoxShadowProperty.html" />
     <Content Include="CSSBoxShadowTextCard.html" />
+    <Content Include="CSSBreadcrumbsPagination.html" />
     <Content Include="CSSButtonColors.html" />
     <Content Include="CSSButtonGroups.html" />
     <Content Include="CSSButtonOnImage.html" />
     <Content Include="CSSButtonSizes.html" />
     <Content Include="CSSButtonsWidth.html" />
+    <Content Include="CSSCenteredPagination.html" />
     <Content Include="CSSColoredButtonBorders.html" />
     <Content Include="CSSColorKeywordsCurrentcolor.html" />
     <Content Include="CSSColorKeywordsInheritKeyword.html" />
@@ -110,6 +114,7 @@
     <Content Include="CSSGradientsUsingAngles.html" />
     <Content Include="CSSGradientsUsingMultipleColors.html" />
     <Content Include="CSSHoverableButtons.html" />
+    <Content Include="CSSHoverableTransitionEffectPagination.html" />
     <Content Include="CSSImageReflection.html" />
     <Content Include="CSSImageReflectionOffset.html" />
     <Content Include="CSSImageReflectionWithGradient.html" />
@@ -145,6 +150,7 @@
     <Content Include="CSSImageSpritesSimpleEampleCSS.css" />
     <Content Include="CSSImageSpritesSimpleExample.html" />
     <Content Include="CSSLeftArrowTooltip.html" />
+    <Content Include="CSSMoreExamplesPagination.html" />
     <Content Include="CSSMultipleBackgrounds.html" />
     <Content Include="CSSMultipleBackgroundsBackgroundSize.html" />
     <Content Include="CSSMultipleBackgroundsClipProperty.html" />
@@ -176,6 +182,8 @@
     <Content Include="CSSResponsiveWebsiteLayout.html" />
     <Content Include="CSSResponsiveWebsiteLayoutCSS.css" />
     <Content Include="CSSRightArrowTooltip.html" />
+    <Content Include="CSSRoundedActiveAndHoverablePagination.html" />
+    <Content Include="CSSRoundedBorders.html" />
     <Content Include="CSSRoundedButtons.html" />
     <Content Include="CSSRoundedCornersBorderRadius.html" />
     <Content Include="CSSRoundedCornersBorderRadiusCSS.css" />
@@ -184,6 +192,8 @@
     <Content Include="CSSShadowButtons.html" />
     <Content Include="CSSShadowEffectsMultipleShadows.html" />
     <Content Include="CSSShadowEffectsTextShadow.html" />
+    <Content Include="CSSSimplePagination.html" />
+    <Content Include="CSSSpaceBetweenLinksPagination.html" />
     <Content Include="CSSStickyHorizontalNavigationBar.html" />
     <Content Include="CSSStickyHorizontalNavigationBarCSS.css" />
     <Content Include="CSSStylingCenterAnImage.html" />

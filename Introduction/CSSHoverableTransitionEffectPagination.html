@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Hoverable Transition Effect</title>
+    <style>
+        .pagination {
+            display:inline-block;
+        }
+
+        .pagination a {
+            padding:8px 16px;
+            text-decoration:none;
+            float:left;
+            color:black;
+            transition: background-color 0.7s;
+        }
+
+        .pagination a.active {
+            background-color:#4CAF50;
+            color:white;
+        }
+
+        .pagination a:hover:not(.active) {
+            background-color:#ddd;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Transition Effect on Hover</h2>
+    <p>Move the mouse over the numbers.</p>
+
+    <div class="pagination">
+        <a href="#">&laquo;</a>
+        <a href="#">1</a>
+        <a href="#" class="active">2</a>
+        <a href="#">3</a>
+        <a href="#">4</a>
+        <a href="#">5</a>
+        <a href="#">6</a>
+        <a href="#">&raquo;</a>
+    </div>
+
+</body>
+</html>
