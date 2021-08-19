@@ -212,6 +212,9 @@
     <Content Include="CSSTopTooltip.html" />
     <Content Include="CSSTransformOriginProperty.html" />
     <Content Include="CSSTransformStyleProperty.html" />
+    <Content Include="CSSUserInterfaceOutlineOffset.html" />
+    <Content Include="CSSUserInterfaceResizing.html" />
+    <Content Include="CSSUserInterfaceTextAreaResizability.html" />
     <Content Include="CSSVerticalButtonGroup.html" />
     <Content Include="CSSVerticalNavigationBar.html" />
     <Content Include="CSSWebsiteLayoutHeader.html" />
