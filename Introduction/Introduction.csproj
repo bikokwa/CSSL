@@ -230,6 +230,8 @@
     <Content Include="CSSUserInterfaceTextAreaResizability.html" />
     <Content Include="CSSVariablesAndJavaScript.html" />
     <Content Include="CSSVariablesHowVarWorks.html" />
+    <Content Include="CSSVariablesInMediaQueriesExampleOne.html" />
+    <Content Include="CSSVariablesInMediaQueriesExampleTwo.html" />
     <Content Include="CSSVariablesTheTraditionalWay.html" />
     <Content Include="CSSVerticalButtonGroup.html" />
     <Content Include="CSSVerticalNavigationBar.html" />
