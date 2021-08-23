@@ -228,6 +228,7 @@
     <Content Include="CSSUserInterfaceOutlineOffset.html" />
     <Content Include="CSSUserInterfaceResizing.html" />
     <Content Include="CSSUserInterfaceTextAreaResizability.html" />
+    <Content Include="CSSVariablesAndJavaScript.html" />
     <Content Include="CSSVariablesHowVarWorks.html" />
     <Content Include="CSSVariablesTheTraditionalWay.html" />
     <Content Include="CSSVerticalButtonGroup.html" />
