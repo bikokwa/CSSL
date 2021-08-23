@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Add a New Local Variable</title>
+    <style>
+        :root {
+            --blue: #1e90ff;
+            --white: #ffffff;
+        }
+
+        body {
+            background-color:var(--blue);
+        }
+
+        h2 {
+            border-bottom: 2px solid var(--blue);
+            display:inline-block;
+        }
+
+        .container {
+            color:var(--blue);
+            background-color:var(--white);
+            padding:15px;
+        }
+
+        button {
+            --button-blue: #0000ff;
+            color:var(--button-blue);
+            border:1px solid var(--button-blue);
+            padding:5px;
+            background-color:var(--white);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>New Local Variable</h1>
+
+    <p>If a variable is to be used only one single place, we could also have declared a new local variable, like this:</p>
+
+    <div class="container">
+        <h2>Lorem Ipsum</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit.</p>
+        <p>
+            <button>Yes</button>
+            <button>No</button>
+        </p>
+    </div>
+
+</body>
+</html>

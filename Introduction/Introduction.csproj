@@ -256,6 +256,8 @@
     <Content Include="Images\pineapple.jpg" />
     <Content Include="Images\rock600x400.jpg" />
     <Content Include="Images\searchicon.png" />
+    <Content Include="OverridingVariablesExamplesOne.html" />
+    <Content Include="OverridingVariablesExamplesTwo.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
