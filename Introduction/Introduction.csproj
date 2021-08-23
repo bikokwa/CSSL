@@ -90,6 +90,7 @@
     <Content Include="CSSBoxShadowImageCard.html" />
     <Content Include="CSSBoxShadowProperty.html" />
     <Content Include="CSSBoxShadowTextCard.html" />
+    <Content Include="CSSBoxSizing.html" />
     <Content Include="CSSBreadcrumbsPagination.html" />
     <Content Include="CSSButtonColors.html" />
     <Content Include="CSSButtonGroups.html" />
@@ -238,6 +239,8 @@
     <Content Include="CSSWebsiteLayoutHeader.html" />
     <Content Include="CSSWebsiteLayoutNavigationBar.html" />
     <Content Include="CSSWebsiteLayoutNavigationBarCSS.css" />
+    <Content Include="CSSWithBoxSizing.html" />
+    <Content Include="CSSWithoutBoxSizingProperty.html" />
     <Content Include="HorizontalNavigationBarExamplesCSS.css" />
     <Content Include="Images\border.png" />
     <Content Include="Images\img_5terre.jpg" />
