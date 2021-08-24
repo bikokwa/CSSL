@@ -153,6 +153,7 @@
     <Content Include="CSSImageSpritesSimpleEampleCSS.css" />
     <Content Include="CSSImageSpritesSimpleExample.html" />
     <Content Include="CSSLeftArrowTooltip.html" />
+    <Content Include="CSSMediaQueries.html" />
     <Content Include="CSSMoreExamplesPagination.html" />
     <Content Include="CSSMultipleBackgrounds.html" />
     <Content Include="CSSMultipleBackgroundsBackgroundSize.html" />
