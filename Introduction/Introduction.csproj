@@ -110,6 +110,8 @@
     <Content Include="CSSDisabledButtons.html" />
     <Content Include="CSSElementColumnsSpan.html" />
     <Content Include="CSSFadeInTooltips.html" />
+    <Content Include="CSSFlexboxFlexboxElements.html" />
+    <Content Include="CSSFlexBoxFlexibleBoxes.html" />
     <Content Include="CSSGradientsDirectionDiagonal.html" />
     <Content Include="CSSGradientsDirectionLeftToRight.html" />
     <Content Include="CSSGradientsRepeatingLinearGradient.html" />
